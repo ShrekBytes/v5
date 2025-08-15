@@ -1,6 +1,6 @@
 ---
-date: '5'
-title: 'Smart Medicine Box'
+date: '4'
+title: 'Smart MedBox'
 cover: './screenshot.png'
 github: 'https://github.com/ShrekBytes/smart-medbox'
 external: ''
