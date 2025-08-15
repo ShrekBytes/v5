@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Unga Bunga User-Agent'
-cover: './ungabunga.png'
+cover: './screenshot.png'
 github: 'https://github.com/ShrekBytes/unga-bunga-User-Agent'
 external: 'https://addons.mozilla.org/en-US/firefox/addon/unga-bunga-user-agent/'
 tech:
@@ -12,4 +12,4 @@ tech:
   - web-ext
 ---
 
-A Firefox extension for user agent spoofing with always up-to-date user agents and some nice features.
+A Firefox extension for user agent spoofing with always up-to-date user agents and some nice and advanced features with modern look and feel
