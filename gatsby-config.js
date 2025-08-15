@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Walid Ahmed (ShrekBytes)',
     description: 'Walid Ahmed is a backend developer and security tester.',
-    siteUrl: 'https://github.com/ShrekBytes', // No trailing slash allowed!
+    siteUrl: 'https://shrekbytes.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@ShrekBytes',
   },
