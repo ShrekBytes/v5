@@ -134,6 +134,8 @@ const About = () => {
     'TailwindCSS',
     'Kotlin',
     'Flutter',
+    'Arduino',
+    'ESP32',
     'Web Security',
     'web-ext',
     'Linux Administration',

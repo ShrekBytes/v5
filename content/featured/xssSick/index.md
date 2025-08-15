@@ -3,7 +3,7 @@ date: '3'
 title: 'xssSick'
 cover: './screenshot.png'
 github: 'https://github.com/ShrekBytes/xssSick'
-cta: 'https://github.com/ShrekBytes/xssSick/blob/main/README.md'
+cta: ''
 tech:
   - Python
   - Bash
