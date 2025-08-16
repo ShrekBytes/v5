@@ -1,11 +1,11 @@
 <div align="center">
- ## Installation & Set Up<img alt="Logo" src="/src/images/logo.png" width="100" />
+<img alt="Logo" src="/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  shrekbytes.me
+  SHREKBYTES.ME
 </h1>
 <p align="center">
-  Personal portfolio website
+  personal portfolio website...
 </p>
 
 ![Website Preview](static/og.png)
@@ -20,7 +20,7 @@ colors: {
 }
 ```
 
-## � Installation & Set Up
+## Installation & Set Up
 
 1. Install the Gatsby CLI
 
@@ -77,9 +77,3 @@ This site is based on the amazing work by [Brittany Chiang](https://brittanychia
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  Built with ❤️ using Gatsby
-</p>
