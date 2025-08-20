@@ -134,10 +134,10 @@ const About = () => {
     'TailwindCSS',
     'Kotlin',
     'Flutter',
-    'Arduino',
-    'ESP32',
+    'Arduino / ESP32',
+    'Web Extension',
+    'UserScript',
     'Web Security',
-    'web-ext',
     'Linux Administration',
   ];
 
