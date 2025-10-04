@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '5'
 title: 'xssSick'
 cover: './screenshot.png'
 github: 'https://github.com/ShrekBytes/xssSick'
