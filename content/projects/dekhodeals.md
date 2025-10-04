@@ -7,7 +7,7 @@ tech:
   - Django
   - PostgreSQL
   - Tailwind CSS
-company: ''
+company: 'Varsity Project'
 showInProjects: true
 ---
 
