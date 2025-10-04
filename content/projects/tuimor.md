@@ -9,7 +9,7 @@ tech:
   - JavaScript
   - Flask
   - TensorFlow
-company: ''
+company: 'Varsity Project'
 showInProjects: false
 ---
 
