@@ -8,7 +8,7 @@ tech:
   - Tinkercad
   - ArduinoIDE
   - C++
-Company: 'Varsity Project'
+company: 'Varsity Project'
 showInProjects: false
 ---
 
