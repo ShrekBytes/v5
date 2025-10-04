@@ -10,7 +10,7 @@ tech:
   - Firefox Add-on
   - web-ext
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 A Firefox extension to get instant dictionary definitions and translations for any text on any website
