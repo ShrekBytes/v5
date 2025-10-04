@@ -10,7 +10,7 @@ tech:
   - Flask
   - TensorFlow
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 A Flask-based web application that uses a trained deep learning model to detect brain tumors from MRI images

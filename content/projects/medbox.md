@@ -9,7 +9,7 @@ tech:
   - ArduinoIDE
   - C++
 Company: ''
-showInProjects: False
+showInProjects: false
 ---
 
 Powered by ESP32, it can automate reminders, display dosages, control the drawer automatically, provide real-time notifications, with an easy-to-use web UI accessible from mobile phones

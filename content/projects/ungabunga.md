@@ -10,7 +10,7 @@ tech:
   - Firefox Add-on
   - web-ext
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 A Firefox extension for user agent spoofing with always up-to-date user agents and some nice and advanced features with modern look and feel
