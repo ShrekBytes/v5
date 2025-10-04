@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '6'
 title: 'Smart MedBox'
 cover: './screenshot.png'
 github: 'https://github.com/ShrekBytes/smart-medbox'
