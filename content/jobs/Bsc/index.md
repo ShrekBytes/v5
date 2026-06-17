@@ -7,8 +7,7 @@ range: 'September 2022 - Present'
 url: 'https://daffodilvarsity.edu.bd/'
 ---
 
-- Pursuing a Bachelor of Science in Computer Science and Engineering
-- Current CGPA 3.75
+- Pursuing a Bachelor of Science in Computer Science and Engineering (CGPA 3.75)
 - Achieved 4th place in the Google Hacking Contest
 - Finalist in the 2022 Take Off Programming Contest
 - Finalist in the 2024 Unlock the Algorithm Contest
