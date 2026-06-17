@@ -13,4 +13,4 @@ tech:
   - GHCR
 ---
 
-A minimal, fast self-hosted dashboard with a Go HTTP backend exposing modular REST API endpoints for service monitoring, RSS aggregation, web scraping, and more.
+A minimal, self-hosted personal dashboard that aggregates weather, bookmarks, task lists, RSS feeds, and service monitoring into a clean, single-page view.

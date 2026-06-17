@@ -14,4 +14,4 @@ company: ''
 showInProjects: false
 ---
 
-Go HTTP backend exposing modular REST API endpoints for service monitoring, RSS aggregation, web scraping, weather, bookmarks, and to-do; containerized and distributed via Docker and GHCR.
+A minimal, self-hosted personal dashboard that aggregates weather, bookmarks, task lists, RSS feeds, and service monitoring into a clean, single-page view.

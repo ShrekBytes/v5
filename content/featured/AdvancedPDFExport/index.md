@@ -13,4 +13,4 @@ tech:
   - GitHub Actions
 ---
 
-A full-featured Obsidian plugin for exporting notes as pixel-perfect PDFs with six style presets, a live preview panel, manual page breaks, and granular layout control.
+An Obsidian plugin that allows users to export markdown notes into beautiful, highly-customizable PDF documents with a live preview and styling presets.

@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I work across <b>Python</b>, <b>Linux</b>, and <b>cloud infrastructure</b> — from
+        I work across <b>Python</b>, <b>Linux</b>, and <b>cloud infrastructure</b>, from
         writing backends and configuring servers to containerizing services and setting up
         automated pipelines. I care more about things working in production than looking good
         on paper.

@@ -16,4 +16,4 @@ tech:
   - Nginx
 ---
 
-A full-stack travel platform for Bangladesh: Django REST Framework API with modular apps, PostgreSQL, Redis caching, Celery for async task processing, and a Flutter mobile frontend.
+A tour planning and travel experience sharing platform designed to help travelers explore, plan, and share their journeys across Bangladesh.

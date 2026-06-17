@@ -14,4 +14,4 @@ company: ''
 showInProjects: false
 ---
 
-Developed a full-featured Obsidian plugin for exporting notes as pixel-perfect PDFs with six style presets, a live preview panel, manual page breaks, and granular layout control; listed in the official Obsidian community plugin directory.
+An Obsidian plugin that allows users to export markdown notes into beautiful, highly-customizable PDF documents with a live preview and styling presets.

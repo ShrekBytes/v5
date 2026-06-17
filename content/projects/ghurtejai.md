@@ -17,4 +17,4 @@ company: ''
 showInProjects: false
 ---
 
-Built a full-stack travel platform for Bangladesh: Django REST Framework API with modular apps (accounts, destinations, experiences, interactions, moderation), PostgreSQL, Redis caching, and Celery for async task processing; Flutter mobile frontend with feature-based architecture.
+A tour planning and travel experience sharing platform designed to help travelers explore, plan, and share their journeys across Bangladesh.
