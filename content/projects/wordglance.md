@@ -9,7 +9,7 @@ tech:
   - Javascript
   - UserScript
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 a userscript to get instant dictionary definitions and translations for any text on any website

@@ -4,11 +4,10 @@ title: 'Medium Unlocked'
 github: 'https://github.com/ShrekBytes/medium-unlocked'
 external: 'https://greasyfork.org/en/scripts/544839-medium-unlocked'
 tech:
-  - JavaScript
-  - Userscript API
-  - GreasyFork
+  - Javascript
+  - Userscript
 company: ''
 showInProjects: true
 ---
 
-A paywall-bypass link injector for Medium & 30+ Medium-powered sites that automatically inserts reading links for premium/paywalled articles.
+A userscript that adds buttons (ReadMedium & Freedium) for paywalled Medium articles

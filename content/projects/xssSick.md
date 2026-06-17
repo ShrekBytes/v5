@@ -8,7 +8,7 @@ tech:
   - Bash
   - Web Security
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
-xssSick probes each parameter across 5 injection contexts (HTML body, attributes, script blocks, JSON, headers) with blind payloads and structured JSON output — both used together in active bug bounty recon and scanning pipelines.
+Automated Cross Site Scripting (XSS) vulnerability detection tool for web applications using Python
