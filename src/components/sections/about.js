@@ -160,7 +160,7 @@ const About = () => {
               detail and analytical mindset to identify vulnerabilities and improve system safety.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies and areas I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
