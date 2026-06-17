@@ -3,7 +3,7 @@ date: '2014-01-01'
 title: 'JSC'
 company: 'Dhangora Model High School'
 location: 'Dhangora, Raiganj, Sirajganj'
-range: 'January 2014 - February 2019'
+range: 'January 2014 - December 2016'
 url: 'https://dhangharahs.edu.bd/'
 ---
 
