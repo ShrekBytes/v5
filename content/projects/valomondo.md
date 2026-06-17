@@ -1,5 +1,5 @@
 ---
-date: '2026-06-17'
+date: '2026-03-17'
 title: 'ValoMondo'
 github: 'https://github.com/ShrekBytes/valomondo'
 external: ''

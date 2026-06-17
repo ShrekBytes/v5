@@ -1,5 +1,5 @@
 ---
-date: '2026-06-17'
+date: '2026-02-17'
 title: 'Zero Point'
 github: 'https://github.com/ShrekBytes/zero-point'
 external: ''

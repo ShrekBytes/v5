@@ -1,5 +1,5 @@
 ---
-date: '2026-06-17'
+date: '2025-06-17'
 title: 'Lexical Analyzer'
 github: 'https://github.com/ShrekBytes/py-ts-lexer'
 external: ''
