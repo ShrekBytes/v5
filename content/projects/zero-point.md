@@ -9,7 +9,7 @@ tech:
   - FreeGLUT
   - CMake
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 A 2D environmental simulation of a split forest-and-village world built from scratch using native graphics math. It features smooth animation loops and a dynamic day/night cycle that completely shifts the environment every 10 seconds.
