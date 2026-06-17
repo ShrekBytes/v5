@@ -10,7 +10,7 @@ tech:
   - Firefox Add-on
   - web-ext
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
-A Firefox extension to get instant dictionary definitions and translations for any text on any website
+Firefox extension for instant dictionary definitions and translations in 40+ languages. Click or hover any word on any page for instant lookups without leaving the tab. 38+ active users on Firefox AMO, rated 4.0.

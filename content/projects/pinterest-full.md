@@ -9,7 +9,7 @@ tech:
   - JavaScript
   - UserScript
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
-A lightweight userscript that lets you download original quality images from Pinterest without logging in. Adds View and Download buttons with a beautiful gallery interface.
+Userscript that extracts full-resolution Pinterest images without requiring a login. Adds View and Download buttons directly on the page. 700+ installs on GreasyFork, 11 GitHub stars.
