@@ -8,7 +8,7 @@ tech:
   - JavaScript
   - KDE Frameworks 6
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 Panel widget for KDE Plasma 6.6+ displaying the active window's title and icon with 5 sizing modes, regex-based app name substitutions, and configurable click behaviors; packaged as a `.plasmoid` installable directly from the Plasma widget manager via OCS.
