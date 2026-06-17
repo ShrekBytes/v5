@@ -128,7 +128,7 @@ const About = () => {
   const skills = [
     'Python',
     'Django & Flask',
-    'Linux',
+    'Linux Adminstration',
     'Docker',
     'AWS',
     'PostgreSQL',
@@ -138,6 +138,10 @@ const About = () => {
     'JavaScript',
     'Shell Scripting',
     'Web Security',
+    'Flutter',
+    'Arduino / ESP32',
+    'Web Extension',
+    'UserScript'
   ];
 
   return (
