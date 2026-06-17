@@ -8,7 +8,7 @@ tech:
   - PostgreSQL
   - Tailwind CSS
 company: 'Varsity Project'
-showInProjects: false
+showInProjects: true
 ---
 
 Dekhodeals aims to simplify online shopping by enabling users to compare products from multiple e-commerce sites, saving time and money while finding the best deals

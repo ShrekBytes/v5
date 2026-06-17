@@ -8,7 +8,7 @@ android: ''
 tech:
   - Firefox Add-on
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 Dracula color scheme with Dark Purple accent

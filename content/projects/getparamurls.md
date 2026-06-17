@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-Chains historical URL archives (gau, waybackurls, waymore), active crawlers (katana, gospider), and JS endpoint extraction (LinkFinder) into a deduplicated, scanner-ready GET/POST URL list for bug bounty recon.
+GetParamURLs is a Python script for bug bounty hunters that `finds URLs with query parameters` using gau and waybackurls, filters out unwanted MIME types, and removes duplicates so that you can focus only on what is important.
