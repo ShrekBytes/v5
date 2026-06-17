@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '06'
 title: 'WordGlance Extension'
 cover: './screenshot.png'
 github: 'https://github.com/ShrekBytes/wordglance-extension'

@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '05'
 title: 'Tuimor'
 cover: './screenshot.png'
 github: 'https://github.com/ShrekBytes/tui_mor'
@@ -12,4 +12,4 @@ tech:
   - TensorFlow
 ---
 
-A Flask-based web application that uses a trained deep learning model to detect brain tumors from MRI images
+Flask web app accepting MRI image uploads and returning a tumor classification (glioma, meningioma, pituitary, or no tumor) with confidence score; integrated a pre-trained Keras model, session-based scan history with no server-side storage, and deployed live on Render with a WSGI production setup.
