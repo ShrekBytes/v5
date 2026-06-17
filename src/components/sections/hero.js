@@ -61,14 +61,14 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Walid Ahmed.</h2>;
-  const three = <h3 className="big-heading">I build things that interest me.</h3>;
+  const three = <h3 className="big-heading">I build, deploy, and automate.</h3>;
   const four = (
     <>
       <p>
-        I am actively developing my skills in <b>backend development</b> and <b>security testing</b>
-        . I enjoy exploring new technologies and learning continuously, it keeps me curious. Outside
-        of coding, I like solving puzzles, watching movies, gaming, making memes, and learning new
-        things.
+        I work across <b>Python</b>, <b>Linux</b>, and <b>cloud infrastructure</b> — from
+        writing backends and configuring servers to containerizing services and setting up
+        automated pipelines. I care more about things working in production than looking good
+        on paper.
       </p>
     </>
   );

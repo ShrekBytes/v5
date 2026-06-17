@@ -127,18 +127,17 @@ const About = () => {
 
   const skills = [
     'Python',
-    'Shell Scripting',
-    'Django',
-    'Next.js',
+    'Django & Flask',
+    'Linux',
+    'Docker',
+    'AWS',
     'PostgreSQL',
-    'TailwindCSS',
-    'Kotlin',
-    'Flutter',
-    'Arduino / ESP32',
-    'Web Extension',
-    'UserScript',
+    'GitHub Actions',
+    'Nginx',
+    'Go',
+    'JavaScript',
+    'Shell Scripting',
     'Web Security',
-    'Linux Administration',
   ];
 
   return (
@@ -149,18 +148,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I’m Walid, currently pursuing my Bachelor's Degree in Computer Science &
-              Engineering. I have experience in backend development and have conducted web security
-              testing, including participation in bug bounty programs.
+              Hello! I'm Walid — a software engineer comfortable working across the full stack,
+              from writing <b>Python backends</b> and configuring <b>Linux servers</b> to
+              containerizing services and wiring up <b>CI/CD pipelines</b>. I care about building
+              things that are reliable, maintainable, and actually ship.
             </p>
 
             <p>
-              I enjoy building products that genuinely interest me, projects I feel I would
-              personally use. In the field of security testing, I enjoy leveraging my attention to
-              detail and analytical mindset to identify vulnerabilities and improve system safety.
+              I've shipped 12+ projects end-to-end with 4,000+ combined downloads, taking
+              ownership from design and implementation all the way through deployment and
+              long-term maintenance. I enjoy the full lifecycle of software — not just writing
+              code, but keeping it running well.
             </p>
 
-            <p>Here are a few technologies and areas I’ve been working with recently:</p>
+            <p>Here are some of the technologies I work with:</p>
           </div>
 
           <ul className="skills-list">
