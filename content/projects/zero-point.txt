@@ -1,0 +1,15 @@
+---
+date: '2026-06-17'
+title: 'Zero Point'
+github: 'https://github.com/ShrekBytes/zero-point'
+external: ''
+tech:
+  - C++20
+  - OpenGL
+  - FreeGLUT
+  - CMake
+company: ''
+showInProjects: true
+---
+
+A 2D environmental simulation that renders a dynamic world transitioning between a dense forest and a quiet village separated by a river. Built from scratch using native graphics mathematics, the world automatically cycles between day and night every 10 seconds to change the lighting, color palettes, and active wildlife animations.
