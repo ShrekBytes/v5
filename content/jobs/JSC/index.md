@@ -9,5 +9,4 @@ url: 'https://dhangharahs.edu.bd/'
 
 - Completed Secondary School Certificate
 - Secured a GPA of 5.0 across all subjects
-- Actively participated in various school events
 - Learned to bunk classes

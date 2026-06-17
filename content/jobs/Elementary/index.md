@@ -9,6 +9,4 @@ url: 'https://http.cat/404'
 
 - Completed Primary School Certificate scoring GPA-5 on all subjects
 - Awarded merit-based Talent Pool Scholarship
-- learned unga bunga and don’t rememba
-- Unlocked the ‘human’ achievement
 - Spent the best days of my life
